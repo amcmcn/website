@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<!-- weekend trips form the bubble -->
+<html>
+
+<head>
+<title> Weekend Trips From The Bubble</title>
+<link rel='stylesheet' type='text/css' href='bubble.css'>
+<!-- bootstrap-->
+<link rel='stylesheet'  href='dist/css/bootstrap.css'>
+</head>
+
+<body>
+<h1> Weekend Trips</h1>
+
+<!-- Nav bar -->
+<ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="daytrips.html">Day Trips</a></li>
+  <li><a href="weekendtrips.html">Weekend Trips</a></li>
+  <li><a href="contact.html">Contact</a></li>
+  <li><a href="about.html">About</a></li>
+</ul>
+<!-- end of nav bar -->
+
+<!--Content-->
+<p>
+
+</body> 
