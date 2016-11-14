@@ -1,9 +1,11 @@
 <!DOCTYPE html>
-<!-- weekend trips form the bubble -->
-<html>
 
+<html>
+<!-- weekend trips from the bubble -->
 <head>
 <title> Weekend Trips From The Bubble</title>
+<h1> Weekend Trips from the Bubble</h1>
+
 <link rel='stylesheet' type='text/css' href='bubble.css'>
 <!-- bootstrap-->
 <link rel='stylesheet'  href='dist/css/bootstrap.css'>
